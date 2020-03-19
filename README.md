@@ -1,5 +1,5 @@
 # PenilaianMhs
-AplikasiPenilaianNetbeans
+Aplikasi Penilaian Netbeans
 Aplikasi ini menggunakan dibuat menggunakan netbeans dan mysql
 Fungsi aplikasi ini untuk melakukan pembuatan kelas dan mengisi mahasiswa dan nomor id mahasiswa,
 kemudian membuat grup mahasiswa untuk melakukan penilaian kelompok
